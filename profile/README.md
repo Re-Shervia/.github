@@ -1,5 +1,5 @@
 ## Hi there 👋
-We're 'Re-Shervia'. A software development team that designs software to emulate *anime games*.
+We're 'Re-Shervia'. A software development team that designs software and server emulator for *anime games*.
 
 ## Projects
 - [Re-Impact : The anime game impact | server emulator] - Coming Soon
