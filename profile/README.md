@@ -2,7 +2,7 @@
 We're 'Re-Shervia'. A software development team that designs software and server emulator for *anime games*.
 
 ## Projects
-- [Re-Impact : The anime game impact | server emulator] - Coming Soon
+- [Re-Impact : The anime game impact | server emulator](https://github.com/Re-Shervia/Re-Impact)
 - [Re-Tower: The anime game tower | server emulator](https://github.com/Re-Shervia/Re-Tower)
 - [Hc-Tower: The software for exploiting anime game tower](https://github.com/Re-Shervia/HC-Tower)
 - [ReShi-Launcher: The custom launcher for Re-Impact & Re-Tower] - Coming Soon
